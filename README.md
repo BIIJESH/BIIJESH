@@ -13,8 +13,9 @@
   </samp>
 </p>
 
-### Languages & Tools 🧰
 <div align="center">
+
+### Languages & Tools 🧰
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,git,github,neovim)]()
 </div>
