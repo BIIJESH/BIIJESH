@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Complex+simplicity%3A+I+use+Linux." alt="Typing SVG" />
   </a>
   <samp>
-        <p align="center">
   <b>Hello There</b>
-            </p>
 <br>
   I'm Bijesh, a student; I like Penguins, dislike Apples, and choose not to use Windows.
     <br>
