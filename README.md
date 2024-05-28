@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://github.com/BIIJESH/BIIJESH/blob/main/animated.gif
+( https://github.com/BIIJESH/BIIJESH/blob/main/animated.gif )
+![Animated GIF](https://raw.githubusercontent.com/BIIJESH/BIIJESH/main/animated.gif)
 <!--
 **BIIJESH/BIIJESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
