@@ -13,9 +13,14 @@
   </samp>
 </p>
 
-<div align="center">
-
 ### Languages & Tools 🧰
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,git,github,neovim)]()
+
+<details>
+    <summary><samp><b>&#9776; See more details</b></samp></summary>
+<div align="center">
+        <table>
+            <tr>
+                <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BIIJESH&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
