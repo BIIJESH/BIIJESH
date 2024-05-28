@@ -8,6 +8,7 @@
     <b>
       Hello There
             </b>
+        <br>
       I'm Bijesh, a student; I like Penguins, dislike Apples, and choose not to use Windows.
     <br>
     <img src="https://raw.githubusercontent.com/BIIJESH/BIIJESH/main/animated.gif" alt="Animated GIF" width="90%">
