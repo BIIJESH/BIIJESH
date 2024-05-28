@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <samp style="font-size: 16px;">
+  <samp>
     <b>Hello There</b>
     <br>
     I'm Bijesh, a student; I like Penguins, dislike Apples, and choose not to use Windows.
@@ -14,5 +14,7 @@
 </p>
 
 ### Languages & Tools 🧰
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,git,github,neovim)]()
+</div>
