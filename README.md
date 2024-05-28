@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Complex+simplicity%3A+I+use+Linux." alt="Typing SVG" />
   </a>
 </p>
-<p style="text-align: center; font-size: 16px;">
+<p align="center">
   <samp>
     <b>Hello There</b>
     <br>
