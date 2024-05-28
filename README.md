@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <samp>
+  <samp style="font-size:16px">
     <b>Hello There</b>
     <br>
     I'm Bijesh, a student; I like Penguins, dislike Apples, and choose not to use Windows.
