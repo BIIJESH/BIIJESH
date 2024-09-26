@@ -15,7 +15,7 @@
 
 ### Languages & Tools 🧰
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,django,react,node,express,linux,git,github,neovim,bash,arch)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,django,react,nodejs,express,mongodb,linux,git,github,neovim,bash,arch)]()
 
 <details>
     <summary><samp><b>&#9776; See more details</b></samp></summary>
