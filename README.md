@@ -22,7 +22,7 @@
 <div align="center">
         <table>
             <tr>
-                <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BIIJESH&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+                <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BIIJESH&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
 <table>
@@ -30,4 +30,3 @@
 </table>
 </div>
 </details>
-
