@@ -22,7 +22,7 @@
 <div align="center">
         <table>
             <tr>
-                <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BIIJESH&theme=tokyonight" alt="GitHub Streak" /></a></td>
+                <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=BIIJESH...&theme=tokyonight" alt="GitHub Streak" /></a></td>
             </tr>
         </table>
 </div>
