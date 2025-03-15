@@ -21,9 +21,7 @@
     <summary><samp><b>&#9776; See more details</b></samp></summary>
 <div align="center">
         <table>
-            <tr>
-                <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=BIIJESH...&theme=tokyonight" alt="GitHub Streak" /></a></td>
-            </tr>
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=BIIJESH...&theme=tokyonight" alt="GitHub Streak" /></a>
         </table>
 </div>
 <div align="center">
