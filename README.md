@@ -9,7 +9,6 @@
     <br>
     I'm Bijesh, a Student; I like Penguins, dislike Apples 
     <br>
-    <img src="https://raw.githubusercontent.com/BIIJESH/BIIJESH/main/animated.gif" alt="Animated GIF" width="90%">
   </samp>
 </p>
 
